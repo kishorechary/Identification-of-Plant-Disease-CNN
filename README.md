@@ -112,6 +112,8 @@ The system predicts one of the following:
 ## 👨‍💻 Author
 
 **Kammari Kishore**
+Ansh N Parmar
+Sharan Teja
 
 * LinkedIn: https://www.linkedin.com/in/kishore-kammari-25b409320
 * GitHub: https://github.com/kishorechary
